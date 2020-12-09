@@ -1,1 +1,35 @@
-/* un commentaire
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.titre-testimonials{
+    font-weight: lighter;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    color: rgb(0, 0, 0);
+    margin-left: 95px;
+    
+}
+.spanser{
+    border-bottom: 1px solid;
+}
+
+.paratesti{
+    margin-left: 95px;
+    margin-right: 95px;
+
+}
+
+.walter{
+    margin-left: 95px;
+    color: #4bcaff;
+    font-weight: bold;
+    margin-bottom: 80px;
+}
+
+.imgui{
+    margin-left: 1400px;
+}
