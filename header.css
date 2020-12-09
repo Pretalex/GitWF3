@@ -1,1 +1,73 @@
-/* un commentaire
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-image: url(images/heromono.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.p_logo{
+    color: white;
+    font-size: 20px;
+    margin-left: 65px;
+    height: 24px;
+    margin-top: 18px;
+}
+
+.span_E{
+    color: #4bcaff;
+}
+
+nav{
+    display: flex;
+    background-color:#00000082;
+    justify-content: space-between;
+    font-family: 'roboto';
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+.home{
+    border: 3px solid #4bcaff;
+    padding: 4px;
+}
+
+.ul_menu{
+    display: flex;
+    list-style: none;
+    margin-right: 100px;
+}
+
+.ul_menu .li_item{
+    margin:20px;
+}
+
+.li_item{
+    color: white;
+    text-decoration: none;
+}
+
+.div_texte{
+    color: white;
+    text-transform: uppercase;
+    font-size: 27px;
+    margin-top: 137px;
+    text-align: -webkit-center;
+}
+
+.p1 , .p2{
+background-color: #00000082;
+max-width: max-content;
+
+}
