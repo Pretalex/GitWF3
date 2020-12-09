@@ -1,7 +1,7 @@
 <div class='container-fluid twitter_background'>
     <div class='container'>
         <div class='twitter_spacebetween'>
-            <h2>Twitter</h2><i class="fab fa-twitter twitter_icon"></i>
+            <h2>TWITTER</h2><i class="fab fa-twitter twitter_icon"></i>
         </div>
         <hr class='twitter_hr'>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae cum odio tempore ut id nostrum natus, accusamus deleniti magnam numquam.</p>
