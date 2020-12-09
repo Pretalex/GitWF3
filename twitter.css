@@ -1,0 +1,22 @@
+/* Style de la section Twitter */
+
+.twitter_background {
+    background-color: #4bcaff;
+    color: white;
+    padding: 25px 0px;
+}
+
+.twitter_bold {
+  font-weight: bold;
+}
+
+.twitter_spacebetween {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.twitter_icon {
+  font-size: 2em;
+}
