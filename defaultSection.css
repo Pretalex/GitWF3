@@ -1,1 +1,35 @@
-/* un commentaire
+/* Style de la section DefaultSection */
+
+.defaultSection_background {
+    background-color: #515f67;
+    color: white;
+    padding: 50px 0px;
+}
+
+.defaultSection_contenu {
+    display: flex;
+}
+
+.defaultSection_partie {
+    width: 50%;
+    padding: 0px 5px 0px 0px;
+}
+
+.defaultSection_video {
+    width: 100%;
+    height: 350px;
+}
+
+.defaultSection_bold {
+    font-weight: bold;
+}
+
+.defaultSection_button {
+    color: #353f46;
+    font-weight: bold;
+    width: 200px;
+    height: 50px;
+    border: 3px solid;
+    border-color: #353f46;
+    background: none;
+}
