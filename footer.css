@@ -1,1 +1,30 @@
-/* un commentaire
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+footer{
+    display: flex;
+    background: grey;
+}
+
+.ul_footer{
+    display: flex;
+    margin-left: 8%;
+}
+
+.il_footer{
+    list-style: none;
+    margin: 19px;
+    margin-left: 24px;
+    color: #2c354e;
+}
+
+.année{
+    margin-left: 46%;
+    font-size: 13px;
+    margin-top: 25px;
+    color: darkgrey;
+}
+
