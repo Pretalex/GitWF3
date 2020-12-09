@@ -1,1 +1,52 @@
-/* un commentaire
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+#container-formulaire{
+    background-color: rgb(137, 156, 211);
+}
+
+.titre-contact{
+    font-weight: lighter;
+    color: white;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    
+}
+
+form{
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(137, 156, 211);
+    
+}
+
+#namemail-contact{
+    padding-right: 800px;
+}
+
+.btn-contact{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #4bcaff;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+
+.paracontact{
+    position: relative;
+    width: 400px;
+    left: 1000px;
+    bottom: 380px;
+}
+
+label{
+    font-weight: bold;
+}

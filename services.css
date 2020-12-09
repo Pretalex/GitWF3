@@ -1,1 +1,48 @@
-/* un commentaire
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+#container-services{
+    color: white;
+    background-image: url("images/fondservices.png");
+}
+
+.titre-services{
+    padding-top: 80px;
+    padding-left: 100px;
+    font-weight: lighter;
+
+}
+
+.spanser{
+    border-bottom: 1px solid;
+}
+
+
+.elements-services{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+.elem-services{
+    
+    margin-top: 80px;
+    padding-bottom: 80px;
+}
+
+.para-services{
+    width: 350px;
+    font-weight: bold;
+}
+
+.titrelem-services{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+}
